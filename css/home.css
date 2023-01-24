@@ -33,4 +33,13 @@
   font-size: 4rem;
   color: var(--primary-color);
 }
+.curriculo{
+  padding: 10px 10px;
+  background-color: var(--icon-color);
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
 
