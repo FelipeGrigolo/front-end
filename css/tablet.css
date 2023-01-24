@@ -38,6 +38,10 @@
     text-align: center;
     line-height: 60px;
   }
+  .curriculo{
+    padding: 5px 100px;
+    cursor: pointer;
+  }
 
   .sobre-mim {
     width: 100%;
